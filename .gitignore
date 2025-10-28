@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore WordPress-specific stuff
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+node_modules/
+*.log
