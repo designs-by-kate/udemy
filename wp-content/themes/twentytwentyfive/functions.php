@@ -144,7 +144,7 @@ if ( ! function_exists( 'twentytwentyfive_format_binding' ) ) :
 	/**
 	 * Callback function for the post format name block binding source.
 	 *
-	 * @since Twenty Twenty-Five 1.0
+	 * @since Twenty Twenty-Five 1.0 
 	 *
 	 * @return string|void Post format name, or nothing if the format is 'standard'.
 	 */
